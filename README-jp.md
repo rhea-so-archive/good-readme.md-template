@@ -1,56 +1,56 @@
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
-# Project Title
+# プロジェクト名
 
-<!-- Project image -->
+<!-- プロジェクトイメージ -->
 <img
   src="https://user-images.githubusercontent.com/25793226/187073904-681c9406-2dae-4d77-aeb0-85906face2d7.jpeg"
   align="right"
   width="200" />
 
-<!-- Project badges -->
+<!-- バッジ -->
 ![Project Contributors](https://img.shields.io/github/contributors/rhea-so-lab/Good-README.md-Template)
 ![Project License](https://img.shields.io/github/license/rhea-so-lab/Good-README.md-Template)
 
-One Paragraph of project description goes here
+ここでプロジェクトを簡単に説明してください。
 
 <br/>
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
-## ⚙ Features
+## ⚙ 主要機能 
 
-- [x] One Feature of project goes here. And this is finished
-- [ ] One Feature of project goes here. And this is unfinished
+- [x] 実装された機能説明
+- [ ] 実装される機能説明
 
 <br/>
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
-## 📱 Working
+## 📱 動作画面
 
 https://user-images.githubusercontent.com/25793226/196483866-7e08b079-760d-4d4e-ac90-25f216b80f39.mov
 
-> The above video is an example and has nothing to do with this project
+> 上記の映像は例であり、本プロジェクトとは全く関係ありません。
 
 <br/>
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
-## 📃 Documents
+## 📃 文書
 
-- [Document A](https://www.google.com)
-- [Document B](https://www.google.com)
+- [文書 1](https://www.google.com)
+- [文書 2](https://www.google.com)
 
 <br/>
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
-## 🛠 Development
+## 🛠 開発
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
-### 📌 Tech stacks
+### 📌 技術スタック
 
 <details>
 <summary>Open or Close</summary>
@@ -76,34 +76,34 @@ https://user-images.githubusercontent.com/25793226/196483866-7e08b079-760d-4d4e-
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
-### 📌 Prerequisites
+### 📌 先行条件
 
 <details>
 <summary>Open or Close</summary>
 <br/>
 
-- Need Tool A
-- Need Tool B
+- Aツールがインストールされている必要があります。
+- Bツールがインストールされている必要があります。
 
 <br/>
 </details>
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
-### 📌 Quick Start
+### 📌 早いスタート
 
 <details>
 <summary>Open or Close</summary>
 <br/>
 
-① Cloning the project:
+① プロジェクトをクローンします:
 
 ```sh
 git clone ~~~.git
 cd ~~~
 ```
 
-② Run:
+② 実行します:
 
 ```sh
 run ~~~
@@ -114,7 +114,7 @@ run ~~~
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
-### 📌 Testing
+### 📌 テスト方法
 
 <details>
 <summary>Open or Close</summary>
@@ -132,17 +132,17 @@ get test:coverage ~~~
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
-## 💁‍♂️ Question
+## 💁‍♂️ 質問
 
-For questions and support please use the official [Official Discord Channel](https://DISCORD_CHANNEL_INVITE_LINK), The issue list of this repo is exclusively for bug reports and feature requests
+ご質問やお手伝いが必要な方は公式[ディスコードチャンネル](https://皆さんのディスコードチャンネルアドレス)をご利用ください。プロジェクトのイシューリストは、機能追加リクエストやバグ情報用にのみ使用されます。
 
 <br/>
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
-## 🤝🏻 Contribute
+## 🤝🏻 寄与
 
-Thank you for contributing to the project:
+プロジェクトに貢献してくださったありがたい方々:
 
 - [rhea-so](https://github.com/rhea-so)
 
@@ -150,9 +150,9 @@ Thank you for contributing to the project:
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
-## 📝 License
+## 📝 ライセンス
 
-This Project is [MIT](./LICENSE) Licensed
+プロジェクトには[MIT](./LICENSE)ライセンスが適用されています。
 
 <br/>
 
