@@ -1,0 +1,28 @@
+name: "Bug Report"
+description: "If something isn't working as expected"
+labels: ["bug"]
+body:
+  - type: textarea
+    validations:
+      required: true
+    attributes:
+      label: "Current behavior"
+      description: "How the issue manifests?"
+
+  - type: textarea
+    validations:
+      required: true
+    attributes:
+      label: "Steps to reproduce"
+      description: "How the issue manifests?"
+      placeholder: |
+        1. do something
+        2. do something
+        3. See error...
+
+  - type: textarea
+    validations:
+      required: true
+    attributes:
+      label: "Expected behavior"
+      description: "A clear and concise description of what you expected to happened (or code)"
