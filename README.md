@@ -9,8 +9,8 @@ One Paragraph of the project description
 <a href="#getting-started">Getting Started</a> •
 <a href="#built-with">Built With</a> •
 <a href="#roadmap">Roadmap</a> •
-<a href="#contributing">Contributing</a> •
 <a href="#community">Community</a> •
+<a href="#contributing">Contributing</a> •
 <a href="#license">License</a>
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
@@ -75,12 +75,6 @@ List things used to build the project
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
-## Contributing
-
-Please read [CONTRIBUTING.md](./CONTRIBUTING.md)
-
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
-
 ## Community
 
 List of link that can communicate about project
@@ -88,6 +82,12 @@ List of link that can communicate about project
 - [Discord]()
 - [Slack]()
 - [Reddit]()
+
+<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
+
+## Contributing
+
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
