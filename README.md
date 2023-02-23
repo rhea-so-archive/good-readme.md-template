@@ -1,159 +1,100 @@
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
+# Title
 
-# Project Title
+<!-- Add Image Here -->
 
-<!-- Project image -->
-<img
-  src="https://user-images.githubusercontent.com/25793226/187073904-681c9406-2dae-4d77-aeb0-85906face2d7.jpeg"
-  align="right"
-  width="200" />
+One Paragraph of the project description
 
-<!-- Project badges -->
-![Project Contributors](https://img.shields.io/github/contributors/rhea-so-lab/Good-README.md-Template)
-![Project License](https://img.shields.io/github/license/rhea-so-lab/Good-README.md-Template)
+<!-- Add Badge Here (https://shields.io/) -->
 
-One Paragraph of project description goes here
-
-<br/>
+<a href="#getting-started">Getting Started</a> •
+<a href="#built-with">Built With</a> •
+<a href="#roadmap">Roadmap</a> •
+<a href="#contributing">Contributing</a> •
+<a href="#community">Community</a> •
+<a href="#license">License</a>
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
-## ⚙ Features
+## Getting Started
 
-- [x] One Feature of project goes here. And this is finished
-- [ ] One Feature of project goes here. And this is unfinished
+Instructions on setting up your project locally  
+To get a local copy up and running follow these simple steps
 
-<br/>
+### Prerequisites
 
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
+List things you need to use the software
 
-## 📱 Working
+- [Example 1]()
+- [Example 2]()
 
-https://user-images.githubusercontent.com/25793226/196483866-7e08b079-760d-4d4e-ac90-25f216b80f39.mov
+### Installation
 
-> The above video is an example and has nothing to do with this project
-
-<br/>
-
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
-
-## 📃 Documents
-
-- [Document A](https://www.google.com)
-- [Document B](https://www.google.com)
-
-<br/>
-
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
-
-## 🛠 Development
-
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
-
-### 📌 Tech stacks
-
-<details>
-<summary>Open or Close</summary>
-<br/>
-
-- 🌐 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![NestJs](https://img.shields.io/badge/-NestJs-333333?style=flat&logo=nestjs)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![TypeORM](https://img.shields.io/badge/-TypeORM-333333?style=flat&logo=typeorm)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
-- 🛢 &nbsp;
-  ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
-  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
-
-<br/>
-</details>
-
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
-
-### 📌 Prerequisites
-
-<details>
-<summary>Open or Close</summary>
-<br/>
-
-- Need Tool A
-- Need Tool B
-
-<br/>
-</details>
-
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
-
-### 📌 Quick Start
-
-<details>
-<summary>Open or Close</summary>
-<br/>
-
-① Cloning the project:
+Run under scripts
 
 ```sh
-git clone ~~~.git
-cd ~~~
+git clone <project>
+cd <project>
 ```
 
-② Run:
+### Run
+
+Run under scripts
 
 ```sh
-run ~~~
+run <environment>
 ```
 
-<br/>
-</details>
+### Test
 
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
-
-### 📌 Testing
-
-<details>
-<summary>Open or Close</summary>
-<br/>
+Run under scripts
 
 ```sh
-do test ~~~
-get test:coverage ~~~
+test <environment>
 ```
 
-<br/>
-</details>
+<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
-<br/>
+## Built With
+
+List things used to build the project
+
+- [Example 1]() - One line of the description
+- [Example 2]() - One line of the description
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
-## 💁‍♂️ Question
+## Roadmap
 
-For questions and support please use the official [Official Discord Channel](https://DISCORD_CHANNEL_INVITE_LINK), The issue list of this repo is exclusively for bug reports and feature requests
+### v1.0.0
 
-<br/>
+- [x] One feature of project and developed
+- [ ] One feature of project and undeveloped
 
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
-
-## 🤝🏻 Contribute
-
-Thank you for contributing to the project:
-
-- [rhea-so](https://github.com/rhea-so)
-
-<br/>
+> **Note**
+> Will be completed on January 1, 2100
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
-## 📝 License
+## Contributing
 
-This Project is [MIT](./LICENSE) Licensed
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us
 
-<br/>
+<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
+
+## Community
+
+List of link that can communicate about project
+
+- [Discord]()
+- [Slack]()
+- [Reddit]()
+
+<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
+
+## License
+
+<!-- Can choose a license by creating a LICENSE file in GitHub -->
+
+This project is licensed under the [MIT](./LICENSE)
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
