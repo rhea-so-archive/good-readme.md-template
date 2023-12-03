@@ -1,100 +1,20 @@
-# Title
+# HTML and CSS PROJECTS
 
-<!-- Add Image Here -->
+This is a display of sample websites that I made during my Pitman training!
 
-One Paragraph of the project description
 
-<!-- Add Badge Here (https://shields.io/) -->
+## PROJECTS
+* [Space Station Site](https://github.com/Vlad882/HTML_and_CSS_Projects/tree/main/Project) 
+* [Movie Theatre Site](https://github.com/Vlad882/HTML_and_CSS_Projects/tree/main/Bootstrap4_project)
+* [My Portfolio Site](https://github.com/Vlad882/Vlad882.github.io)
 
-<a href="#getting-started">Getting Started</a> •
-<a href="#built-with">Built With</a> •
-<a href="#roadmap">Roadmap</a> •
-<a href="#community">Community</a> •
-<a href="#contributing">Contributing</a> •
-<a href="#license">License</a>
 
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
+## Space Station Site
+This page is an example home page for a Space travel company. It's styled using CSS and contains a navbar, image containers and a form.
 
-## Getting Started
+## Movie Theatre Site
+This page is an example home page for a Movie theater that is styled using Bootstrap 4. It contains many Bootstrap componets including but not limited to a navbar, jumbotron, form, cards and dropdowns.
 
-Instructions on setting up your project locally  
-To get a local copy up and running follow these simple steps
+## Movie Theatre Site
+This is my developer portfolio live site. It contains all components I've learned during my Bootstrap and CSS module, including navbar, active form with formspree, various kinds of CSS features, etc. The site using GitHub as a hosting service.  
 
-### Prerequisites
-
-List things you need to use the software
-
-- [Example 1]()
-- [Example 2]()
-
-### Installation
-
-Run under scripts
-
-```sh
-git clone <project>
-cd <project>
-```
-
-### Run
-
-Run under scripts
-
-```sh
-run <environment>
-```
-
-### Test
-
-Run under scripts
-
-```sh
-test <environment>
-```
-
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
-
-## Built With
-
-List things used to build the project
-
-- [Example 1]() - One line of the description
-- [Example 2]() - One line of the description
-
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
-
-## Roadmap
-
-### v1.0.0
-
-- [x] One feature of project and developed
-- [ ] One feature of project and undeveloped
-
-> **Note**
-> Will be completed on January 1, 2100
-
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
-
-## Community
-
-List of link that can communicate about project
-
-- [Discord]()
-- [Slack]()
-- [Reddit]()
-
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
-
-## Contributing
-
-Please read [CONTRIBUTING.md](./CONTRIBUTING.md)
-
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
-
-## License
-
-<!-- Can choose a license by creating a LICENSE file in GitHub -->
-
-This project is licensed under the [MIT](./LICENSE)
-
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
